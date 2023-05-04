@@ -1,3 +1,5 @@
+import React from 'react'
+
 export default function About ({ image=`https://via.placeholder.com/215`, about }) {
 
     return (
